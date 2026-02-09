@@ -32,7 +32,7 @@ psu_collaboration/
 └── environment.yml                            # Python environment needed for the Python scripts used throughout this repo
 ```
 ## TempestExtremes Setup
-Can install using CMake or conda, which are outlined in TempestExtremes' [user guide](psu_collaboration\docs\TempestExtremes_userguide.pdf), [GitHub](https://github.com/ClimateGlobalChange/tempestextremes), and [online](https://climate.ucdavis.edu/tempestextremes.php). If you have issues installing via CMake, GitHub's Copilot (or ChatGPT) may be able to help debug. 
+Can install using CMake or conda, which are outlined in TempestExtremes' [user guide](https://github.com/NCSU-MEAS-Michaelis-Research-Group/landfalling_ar_mfw/blob/main/psu_collaboration/docs/TempestExtremes_userguide.pdf), [GitHub](https://github.com/ClimateGlobalChange/tempestextremes), and [online](https://climate.ucdavis.edu/tempestextremes.php). If you have issues installing via CMake, GitHub's Copilot (or ChatGPT) may be able to help debug. 
 
 
 ## Python Environment Setup
